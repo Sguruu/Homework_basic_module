@@ -20,4 +20,5 @@ local.properties
 /src/main/kotlin/lesson
 /src/main/kotlin/other
 /src/main/kotlin/proverka
+/src/main/java/proverka
 /src/main/kotlin/stream
